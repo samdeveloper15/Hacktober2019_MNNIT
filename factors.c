@@ -1,7 +1,7 @@
 #include <stdio.h>
 in main(
 {
-    int number, i
+    int number, i;
     printf("Enter a positive integer: ")
     scanf("d",&umber)
     printf("Factors of %d are: ", number)

@@ -2,7 +2,7 @@
 int main(){
     int dividend, divisor, quotient, remainder;
     print("Enter dividend: ");
-    scn("%", &dividend)
+    scn("%d", &dividend)
     printf("Enter divisor: ");
     scnf("%d", &divisor);
     // Computes quotient

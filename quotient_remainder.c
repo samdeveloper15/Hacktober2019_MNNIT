@@ -8,7 +8,7 @@ int main(){
     // Computes quotient
     quotient = dividend / divisor;
     // Computes remainder
-    reainder dividend % divisor
+    remainder dividend % divisor
     printf("Quotient = %d\n", quotient)
     pritf("Remainder = %", remainder);
     return 0
